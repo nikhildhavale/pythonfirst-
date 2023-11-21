@@ -4,4 +4,7 @@
    <FileRef
       location = "group:print.py">
    </FileRef>
+   <FileRef
+      location = "group:calculator1.py">
+   </FileRef>
 </Workspace>
